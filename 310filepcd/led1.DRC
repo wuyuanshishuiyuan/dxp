@@ -1,0 +1,32 @@
+Protel Design System Design Rule Check
+PCB File : \Users\F.ANG'YAO\Desktop\homework\电子设计\310FILEPCD\led1.PcbDoc
+Date     : 2021/9/29
+Time     : 13:31:01
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=30mil) (Max=50mil) (Preferred=40mil) (InNetClass('vcc,gnd'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNetClass('vcc,gnd')),(InNetClass('vcc,gnd'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00
